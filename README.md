@@ -4,9 +4,9 @@ Command-line reverse polish notation (RPN) calculator
 # Documentation
 Used 'Operator' library For Math calculations.In Future if we want to add more operators we can just add to the list.Rest will handle by the code.
 
-- 'evaluate' Fucntion: Helps to split the Input Expression,find for token (operator)in the Expression, and Push the data to stack.
-- 'apply' Fucntion: Helps to perform operational calculation on the last 2 elemnts of stack and push the results back to stack.
-- 'run' Fucntion: Helps to run the program in loop untill it receives exit command.
+- 'evaluate' Function: Helps to split the Input Expression,find for token (operator)in the Expression, and Push the data to stack.
+- 'apply' Function: Helps to perform operational calculation on the last 2 elements of stack and push the results back to stack.
+- 'run' Function: Helps to run the program in loop untill it receives exit command.
 
 
 # Binary Operators
